@@ -1,0 +1,16 @@
+process           rT          ct            wt             tat
+
+Process P1            0           5              0          5
+
+Process p2            5           12              5          7
+
+Process p3            12           21              12          14
+
+
+Average Response Time for 3 Processes: 5.66667
+
+Average Completion Time for 3 Processes: 12.6667
+
+Average Waiting Time for 3 Processes: 5.66667
+
+Average Turn Around Time for 3 Processes: 8.66667
